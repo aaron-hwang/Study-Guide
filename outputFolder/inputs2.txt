@@ -1,0 +1,5 @@
+outputFolder/output.sr
+amongus
+1
+1
+1
